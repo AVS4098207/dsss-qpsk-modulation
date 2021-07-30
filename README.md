@@ -5,7 +5,9 @@ Direct-sequence spread spectrum technique primarily used to reduce overall signa
 
 
 • In some communication system applications, we have some concerns that outweigh bandwidth efficiency.
+
 • Mostly in wireless applications, stations must be able to share this medium without interception by an eavesdropper and without being subject to jamming from a malicious intruder to achieve these goals. Spread spectrum techniques add redundancy.
-• The usage of spread spectrum techniques adds a strong layer of security for the transmission of information signals without the worry of them getting intercepted in between. This results in a much greater bandwidth than the signal would have if its
-frequency were not varied.
+
+• The usage of spread spectrum techniques adds a strong layer of security for the transmission of information signals without the worry of them getting intercepted in between. This results in a much greater bandwidth than the signal would have if its frequency were not varied.
+
 • One such technique provides efficient transmission over large distances by varying the sequence of the information signal pattern.
