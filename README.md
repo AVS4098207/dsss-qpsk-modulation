@@ -1,5 +1,5 @@
 # dsss-qpsk-modulation
-Direct sequence spread spectrum realisation using Quadrature Phase Shift Key modulation.
+Direct Sequence Spread Spectrum (DSSS) realisation using Quadrature Phase Shift Key (QPSK) modulation.
 
 Direct-sequence spread spectrum technique primarily used to reduce overall signal interference. The direct-sequence modulation makes the transmitted signal wider in bandwidth than the information bandwidth. After the dispreading or removal of the direct sequence modulation in the receiver, the information bandwidth is restored, while the unintentional and intentional interference is substantially reduced.
 
